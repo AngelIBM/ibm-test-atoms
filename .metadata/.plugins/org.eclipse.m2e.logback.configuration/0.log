@@ -6,3 +6,7 @@
 2016-01-28 11:10:22,190 [Worker-4] INFO  org.eclipse.jetty.server.Server - jetty-9.2.13.v20150730
 2016-01-28 11:10:22,237 [Worker-4] INFO  o.e.jetty.server.ServerConnector - Started ServerConnector@6de52099{HTTP/1.1}{0.0.0.0:49998}
 2016-01-28 11:10:22,238 [Worker-4] INFO  org.eclipse.jetty.server.Server - Started @13021ms
+2016-01-28 12:02:01,698 [Worker-2] INFO  org.eclipse.jetty.util.log - Logging initialized @12839ms
+2016-01-28 12:02:01,761 [Worker-2] INFO  org.eclipse.jetty.server.Server - jetty-9.2.13.v20150730
+2016-01-28 12:02:01,810 [Worker-2] INFO  o.e.jetty.server.ServerConnector - Started ServerConnector@44f6e793{HTTP/1.1}{0.0.0.0:50471}
+2016-01-28 12:02:01,811 [Worker-2] INFO  org.eclipse.jetty.server.Server - Started @12955ms
