@@ -1,0 +1,16 @@
+----------------------------------------------------------------
+Wed Jan 27 16:53:20 CST 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.8.2.2 - (1181258): instance a816c00e-0152-854a-85e4-00000dcb09a8 
+on database directory C:\Users\IBM_ADMIN\Documents\WorkSpaces\IBM\MobileFirstServerConfig\shared\resources\derbyDB\WLADMIN  with class loader com.ibm.ws.classloading.internal.AppClassLoader@76b0053e 
+Loaded from null
+java.vendor=Oracle Corporation
+java.runtime.version=1.7.0_75-b13
+user.dir=C:\Users\IBM_ADMIN\Documents\WorkSpaces\IBM\MobileFirstServerConfig\servers\worklight
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Wed Jan 27 17:00:03 CST 2016:
+Shutting down instance a816c00e-0152-854a-85e4-00000dcb09a8 on database directory C:\Users\IBM_ADMIN\Documents\WorkSpaces\IBM\MobileFirstServerConfig\shared\resources\derbyDB\WLADMIN with class loader com.ibm.ws.classloading.internal.AppClassLoader@76b0053e 
+----------------------------------------------------------------
+Wed Jan 27 17:00:03 CST 2016: Shutting down Derby engine
+----------------------------------------------------------------

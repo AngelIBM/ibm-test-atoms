@@ -1,0 +1,3 @@
+eclipse.preferences.version=1
+module-start-timeout=300000
+runtimes=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?>\r\n<runtimes>\r\n  <runtime id\="com.ibm.worklight" id-set\="true" location\="C\:/eclipse/plugins/com.worklight.worklight-artifacts_7.1.0.00-20151227-1725/liberty/wlp" name\="MobileFirst Development Server" runtime-type-id\="com.ibm.ws.st.runtime.v85.was" timestamp\="0">\r\n    <list key\="user-dirs" value0\="C\:/Users/IBM_ADMIN/Documents/WorkSpaces/IBM/MobileFirstServerConfig"/>\r\n  </runtime>\r\n</runtimes>\r\n
