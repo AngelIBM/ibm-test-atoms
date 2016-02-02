@@ -1,0 +1,4 @@
+$(document).on('click', ".CategoryOneClick",function()
+{
+	alert("Dio click");
+});

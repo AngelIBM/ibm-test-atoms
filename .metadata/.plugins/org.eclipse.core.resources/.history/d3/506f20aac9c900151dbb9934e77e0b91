@@ -1,0 +1,11 @@
+<div class="row"">
+	<div class="col-xs-3 text-center CategoryLavel">
+		&#60;
+	</div>
+	<div class="col-xs-6 text-center categoryLavel CategoryThreeClick">
+		<span>Wellness</span>
+	</div>
+	<div class="col-xs-3 text-center categoryLavel CategoryFourClick">
+		&#62;
+	</div>
+</div>

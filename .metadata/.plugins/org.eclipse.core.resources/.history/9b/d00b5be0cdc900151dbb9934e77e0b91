@@ -1,0 +1,35 @@
+<div class="row">
+	<div class="col-xs-3 text-center categoryLavel CategoryOneClick">
+		<span>&#60;</span>
+	</div>
+	<div class="col-xs-6 text-center categoryLavel CategoryTwolick">
+		<span id="CategoryName">Wellness</span>
+	</div>
+	<div class="col-xs-3 text-center categoryLavel CategoryThreeClick">
+		<span>&#62;</span>
+	</div>
+</div>
+<script type="text/javascript">
+
+var counter = 0;
+var categories = ["Wellness", "Productivity","Social","Environment"];
+
+$(document).on('click', ".CategoryOneClick",function()
+{
+	counter--;
+	if(counter>=0 && counter < categories.length)
+	{
+		$("#CategoryName").html(categories[counter]);
+	}
+	
+});
+$(document).on('click', ".CategoryThreeClick",function()
+{
+	counter++;
+	if(counter>=0 && counter < categories.length)
+	{
+		$("#CategoryName").html(categories[counter]);
+	}
+	
+});
+</script>
